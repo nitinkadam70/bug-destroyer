@@ -1,5 +1,9 @@
 # Bugs-Destroyer
-website is all about productivity, bug spotting, and problem-solving to all out there who faces problem regarding their tech journey so don't hesitate to connect with us
+A Hackathon project aimed at helping developers boost productivity, spot bugs, and solve tech problems. Our website is a supportive space for anyone facing challenges in their tech journey. Share issues, find solutions, and connect with like-minded tech enthusiasts — we're here to grow together.
+
+
+
+Live Link : https://drive.google.com/file/d/1RyvHslsFte-7UdnEtn-70H8YcfU_cGMW/view?usp=sharing
 
 
 
